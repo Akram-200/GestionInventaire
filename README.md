@@ -60,3 +60,11 @@ Le script de création de la base de données se trouve dans :
   <li>Interface d’ajout de produit</li>
   <li>Liste des produits</li>
 </ul>
+
+<img width="1366" height="725" alt="interface1" src="https://github.com/user-attachments/assets/0968bd9f-7517-42ef-acf5-5da87ade81e5" />
+
+
+<img width="1366" height="723" alt="ajout-produits2" src="https://github.com/user-attachments/assets/7ae4ac16-ae15-49c7-a1cc-4c4348c7acfe" />
+
+
+<img width="1365" height="728" alt="liste-produits3" src="https://github.com/user-attachments/assets/7899f8b2-f030-447d-b754-9fd5e9e17dac" />
