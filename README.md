@@ -1,8 +1,6 @@
 <h1>Gestion d’inventaire – C# & SQL Server</h1>
-<hr>
 
 <h2>Description</h2>
-<hr>
 <p>
 Application simple de gestion d’inventaire développée en <strong>C#</strong> avec
 <strong>SQL Server</strong>.
@@ -11,7 +9,6 @@ Projet académique réalisé dans le cadre du
 </p>
 
 <h2>Fonctionnalités</h2>
-<hr>
 <ul>
   <li>Ajouter un produit</li>
   <li>Modifier un produit</li>
@@ -20,7 +17,6 @@ Projet académique réalisé dans le cadre du
 </ul>
 
 <h2>Technologies utilisées</h2>
-<hr>
 <ul>
   <li>C# (WinForms)</li>
   <li>SQL Server</li>
@@ -29,7 +25,6 @@ Projet académique réalisé dans le cadre du
 </ul>
 
 <h2>Structure du projet (prévue)</h2>
-<hr>
 <ul>
   <li><strong>Models/</strong> : classes métier (ex. Produit)</li>
   <li><strong>Data/</strong> : connexion et accès à la base de données</li>
@@ -38,7 +33,6 @@ Projet académique réalisé dans le cadre du
 </ul>
 
 <h2>Base de données</h2>
-<hr>
 
 <h3>Table : Produits</h3>
 <ul>
@@ -54,7 +48,6 @@ Le script de création de la base de données se trouve dans :
 </p>
 
 <h2>Objectif pédagogique</h2>
-<hr>
 <ul>
   <li>Pratiquer les opérations <strong>CRUD</strong></li>
   <li>Comprendre la connexion à une base de données avec <strong>ADO.NET</strong></li>
